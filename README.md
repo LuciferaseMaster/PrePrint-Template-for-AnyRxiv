@@ -1,7 +1,7 @@
 # PrePrint-Template-for-AnyRxiv
 MS Word and Libre Office templates for a nicer and more readable #PrePrint manuscript.
 
-These templates aims to create reader-friendly PrePrints.
+These templates aim to create reader-friendly PrePrints.
 These templates are inspired by the [BioRxiv preprint template](https://github.com/finkelsteinlab/BioRxiv-Template) made by the Finkelstein lab  and by by [another BioRxiv preprint template](https://github.com/chrelli/bioRxiv-word-template) made by [Christian L. Ebbesen](https://github.com/chrelli).
 My versions add more manuscript elements and tweaks (compared to the individual templates above), aim for a more universal print layout (for both A4 and Letter paper size) and include more custom fonts suggestions for different manuscript elements, to provide a better reading experience.
 
