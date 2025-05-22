@@ -1,4 +1,4 @@
-# BioRxiv-Template
+# PrePrint-Template-for-AnyRxiv
 MS Word and Libre Office templates for a nicer and more readable #PrePrint manuscript.
 
 These templates aims to create reader-friendly PrePrints.
