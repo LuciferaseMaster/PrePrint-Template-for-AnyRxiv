@@ -18,9 +18,8 @@ Therefore, I have played around a little and made two versions with a very simil
 
 ![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![bioRxiv logo v2](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style2.svg) 
 
-Test text.
-
-![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) &nbsp; ![openRxiv, OpenRχiv logo v1](/preprint_logos/svg_files/openRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![openRxiv, OpenRχiv logo v1, single-word](/preprint_logos/svg_files/openRxiv_logo_name-only_free-fonts-version_style1.svg)
+An free-fonts-version logo of OpenRxiv:
+![openRxiv, OpenRχiv logo v1](/preprint_logos/svg_files/openRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![openRxiv, OpenRχiv logo v1, single-word](/preprint_logos/svg_files/openRxiv_logo_name-only_free-fonts-version_style1.svg)
 
 More updates to follow:
 
