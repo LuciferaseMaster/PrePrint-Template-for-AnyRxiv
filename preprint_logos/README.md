@@ -9,6 +9,8 @@ See for yourself!
 3) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (part of [openRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
 
 a) I have made the same logos in a vector format. They can be stretched or compressed without any loss of quality and detail.
+![preprint logo](/preprint_logos/svg_files/bioRxiv_logo_full.svg)
+![preprint logo](/preprint_logos/svg_files/medRxiv_logo_full.svg)
 
 b) However, these logos are originally made with [three propriatory fonts](http://disq.us/p/32uc0ua), not readily available to most people. 
 So, I think it's nice — and more in line with the open science spirit — to have these logos made with free fonts. 
