@@ -17,6 +17,9 @@ Therefore, I have made two versions with a very similar vibe by using the follow
 
 ![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![bioRxiv logo v2](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style2.svg) &nbsp;&nbsp;&nbsp; ![openRxiv, OpenRχiv logo v1](/preprint_logos/svg_files/openRxiv_logo_full_free-fonts-version_style1.svg)
 
+
+More updates to follow:
+
 3) I have attached the two most popular preprint templates (from [here](https://github.com/finkelsteinlab/BioRxiv-Template) and [here](https://github.com/chrelli/bioRxiv-word-template)) with the logos inserted and other slight modifications, to provide a better reading experience.
 
 4) I think it is also nice to include the actual text of the logo as a small text box  — invisible, behind the logo itself. This way this text is still present in the final PDF file despite the logo being just a vector image.
