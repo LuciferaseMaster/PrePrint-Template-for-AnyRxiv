@@ -6,7 +6,7 @@ See for yourself!
 
 ![preprint logo](/preprint_logos/svg_files/preprint_logo_full_v1.svg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![preprint logo single-word](/preprint_logos/svg_files/preprint_logo_single-word_v1.svg)
 
-3) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (part of [openRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
+3) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (now a part of [openRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
 
 a) I have made the same logos in a vector format. They can be stretched or compressed without any loss of quality and detail.
 ![bioRxiv logo](/preprint_logos/svg_files/bioRxiv_logo_full.svg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![medRxiv logo](/preprint_logos/svg_files/medRxiv_logo_full.svg)
