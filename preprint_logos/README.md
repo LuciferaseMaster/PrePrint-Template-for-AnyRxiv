@@ -1,10 +1,11 @@
 # Logos for #preprints
-[Nice vector logotypes](https://github.com/LuciferaseMaster/PrePrint-Template-for-AnyRxiv/tree/master/preprint_logos/svg_files) which can be inserted into your manuscript file to mark it as a preprint: a general one, the ones aimed for bioRχiv (bioRxiv) or medRχiv (medRxiv).
+[Nice vector logotypes](/preprint_logos/svg_files) which can be inserted into your manuscript file to mark it as a preprint: a general one, the ones aimed for bioRχiv (bioRxiv) or medRχiv (medRxiv).
 
 1) The first logo signifies a preprint status of the manuscript document. I've designed it to be visually nice and to reflect different types of preprinted research, and different layers and meanining of this concept.
 See for yourself!
+![/svg_files/preprint_logo_full_v1.svg]
 
-2) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (part of [openRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
+3) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (part of [openRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
 
 a) I have made the same logos in a vector format. They can be stretched or compressed without any loss of quality and detail.
 
