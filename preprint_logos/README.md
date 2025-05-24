@@ -5,6 +5,7 @@ Nice vector logos which can be inserted into your the manuscript file to mark it
 See for yourself!
 
 2) The [bioRxiv](https://www.biorxiv.org/) and [MedRxiv](https://www.medrxiv.org/) repositiories only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
+
 a) I have made the same logos in a vector format.
 
 b) However, these logos are originally made with [three propriatory fonts](http://disq.us/p/32uc0ua), not readily available to most people. 
