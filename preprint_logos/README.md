@@ -4,7 +4,7 @@
 1) The first logo signifies a preprint status of the manuscript document. I've designed it to be visually nice and to reflect different types of preprinted research, and different layers and meanining of this concept.
 See for yourself!
 
-![preprint logo](/preprint_logos/svg_files/preprint_logo_full_v1.svg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![preprint logo single-word](/preprint_logos/svg_files/preprint_logo_single-word_v1.svg)
+![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v1.svg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![preprint logo single-word](/preprint_logos/svg_files/preprint_logo_single-word_v1.svg)
 
 3) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (now a part of [openRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
 
