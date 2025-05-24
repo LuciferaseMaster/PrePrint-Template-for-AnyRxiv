@@ -4,7 +4,7 @@ Nice vector logotypes which can be inserted into your the manuscript file to mar
 1) The first logo signifies a preprint status of the manuscript. I've designed it to be visually nice and to reflect different types of preprinted research, and different layers and meanining of this concept.
 See for yourself!
 
-2) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
+2) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (part of [medRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
 
 a) I have made the same logos in a vector format.
 
