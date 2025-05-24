@@ -19,6 +19,7 @@ Therefore, I have played around a little and made two versions with a very simil
 
 <br>
 ![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) 
+
 ![openRxiv, OpenRχiv logo v1](/preprint_logos/svg_files/openRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![openRxiv, OpenRχiv logo v1, single-word](/preprint_logos/svg_files/openRxiv_logo_name-only_free-fonts-version_style1.svg)
 
 More updates to follow:
