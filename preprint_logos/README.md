@@ -15,8 +15,9 @@ b) However, these logos are originally made with [three propriatory fonts](http:
 So, I think it's nice — and more in line with the open science spirit — to have these logos made with free fonts. 
 Therefore, I have made two versions with a very similar vibe by using the following free fonts: EB Garamond Medium, Palatino Linotype, Coconat Demi (for the logotype), and Fira Sans Medium (Small Caps - for the tagline). These fonts are open source fonts, except for [Palatino Linotype](https://learn.microsoft.com/en-us/typography/font-list/palatino-linotype) (for the "χ" letter) which is [included](https://learn.microsoft.com/en-us/typography/font-list/palatino-linotype) with every MS Windows OS and with MS Office.
 
-![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![bioRxiv logo v2](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style2.svg) &nbsp;&nbsp;&nbsp; ![openRxiv, OpenRχiv logo v1](/preprint_logos/svg_files/openRxiv_logo_full_free-fonts-version_style1.svg)
+![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![bioRxiv logo v2](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style2.svg) 
 
+<br> ![openRxiv, OpenRχiv logo v1](/preprint_logos/svg_files/openRxiv_logo_full_free-fonts-version_style1.svg)
 
 More updates to follow:
 
