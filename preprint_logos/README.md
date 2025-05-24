@@ -10,6 +10,8 @@ See for yourself!
 
 a) I have made the same logos in a vector format. They can be stretched or compressed without any loss of quality and detail.
 ![preprint logo](/preprint_logos/svg_files/bioRxiv_logo_full.svg)
+
+
 ![preprint logo](/preprint_logos/svg_files/medRxiv_logo_full.svg)
 
 b) However, these logos are originally made with [three propriatory fonts](http://disq.us/p/32uc0ua), not readily available to most people. 
