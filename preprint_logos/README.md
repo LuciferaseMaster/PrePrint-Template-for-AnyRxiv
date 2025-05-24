@@ -1,5 +1,5 @@
 # Logos for #preprints
-Nice vector logos which can be inserted into your the manuscript file to mark it as a preprint: a general one, the one aimed for bioRχiv (bioRxiv) or medRχiv (medRxiv).
+Nice vector logos which can be inserted into your the manuscript file to mark it as a preprint: a general one, the ones aimed for bioRχiv (bioRxiv) or medRχiv (medRxiv).
 
 1) The first logo signifies a preprint status of the manuscript. I've designed it to be visually nice and to reflect different types of preprinted research, and different layers and meanining of this concept.
 See for yourself!
