@@ -6,7 +6,8 @@ See for yourself!
 
 2) The [bioRxiv](https://www.biorxiv.org/) and [MedRxiv](https://www.medrxiv.org/) repositiories only have the png-format logos available, unlike [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard) and [Arxiv](https://arxiv.org/), for example.
 I have made the same logos in a vector format.
-However, these logos are originally made with propriatory fonts. So, I think it's nice — and more in line with the open science spirit — to have these logos made with free fonts. 
+However, these logos are originally made with [three propriatory fonts](http://disq.us/p/32uc0ua), not readily available to most people. 
+So, I think it's nice — and more in line with the open science spirit — to have these logos made with free fonts. 
 Therefore, I have made two versions with a very similar wide by using the following free fonts: EB Garamond Medium, Palatino Linotype, Coconat Demi and Fira Sans Medium (Small Caps). These fonts are open source fonts, except for [Palatino Linotype](https://learn.microsoft.com/en-us/typography/font-list/palatino-linotype) (for the "χ" letter) with is [included}(https://learn.microsoft.com/en-us/typography/font-list/palatino-linotype) with every MS Windows OS.
 
 3) I have attached the two most popular preprint templates (from [here](https://github.com/finkelsteinlab/BioRxiv-Template) and [here](https://github.com/chrelli/bioRxiv-word-template)) with the logos inserted and other slight modifications, to provide a better reading experience.
