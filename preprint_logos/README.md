@@ -17,7 +17,7 @@ Therefore, I have made two versions with a very similar vibe by using the follow
 
 ![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![bioRxiv logo v2](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style2.svg) 
 
-<br>
+\
 
 ![openRxiv, OpenRχiv logo v1](/preprint_logos/svg_files/openRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![openRxiv, OpenRχiv logo v1, single-word](/preprint_logos/svg_files/openRxiv_logo_name-only_free-fonts-version_style1.svg)
 
