@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="85.354568mm"
-   height="22.930891mm"
-   viewBox="0 0 85.354569 22.930891"
+   width="85.654572mm"
+   height="23.230892mm"
+   viewBox="0 0 85.654572 23.230892"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -14,13 +14,13 @@
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(-62.9285,-133.61459)">
+     transform="translate(-62.628499,-133.31459)">
     <g
        id="text3"
        style="font-size:25.4px;line-height:10.3188px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0.232833px;fill:#bd2736;stroke-width:0.6"
-       aria-label="bioRχiv&#10;">
+       aria-label="bioRχiv">
       <path
-         style="font-size:22.5778px;font-family:Coconat;-inkscape-font-specification:Coconat;letter-spacing:1.85473px;fill:#000000"
+         style="font-size:22.5778px;font-family:Coconat;-inkscape-font-specification:Coconat;letter-spacing:1.85473px;fill:#000000;stroke:#000000"
          d="m 63.041389,150.63825 0.02258,-0.0452 q 0.428979,-1.12889 0.428979,-5.1929 v -7.87965 q 0,-1.87396 -0.564445,-2.55129 l 2.415824,-1.35467 v 6.70561 q 1.806224,-1.64818 3.860804,-1.64818 1.919113,0 3.251203,1.51271 1.354668,1.51271 1.354668,3.81565 0,2.82223 -1.783646,4.76392 -1.783646,1.91911 -4.583293,1.91911 -1.603024,0 -2.935114,-0.6096 l -1.399824,0.54187 z m 2.302935,-2.21262 q 1.106312,1.17404 2.822225,1.17404 1.64818,0 2.619025,-1.17404 0.970846,-1.17405 0.970846,-3.29636 0,-2.2352 -0.948268,-3.56729 -0.92569,-1.35467 -2.619025,-1.35467 -1.512713,0 -2.844803,1.10631 z"
          id="path1" />
       <path
