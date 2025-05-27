@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36mm"
+   height="30.215219mm"
+   viewBox="0 0 36 30.215219"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <desc property="dc:creator">Michael Koksharov: https://github.com/LuciferaseMaster/PrePrint-Template-for-AnyRxiv/tree/master/preprint_logos</desc>
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 29.25532,53.394955 H 72.099176 V 106.31031 H 29.25532 Z"
+         id="path1" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-84.768986,-100.97677)">
+    <path
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:30.389px;line-height:125%;font-family:'Noto Emoji';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38016"
+       d="m 94.622649,107.74743 h -8.266162 v 23.44456 h 33.060003 v -23.44456 h -8.14214 v 1.18701 h 5.90145 L 102.88675,120.9089 88.612163,108.93444 h 6.010486 z m -7.078638,1.85467 8.175729,6.91482 -8.175729,12.16721 z m 30.685479,0 v 19.08203 l -8.17573,-12.16721 z m -21.574924,7.67136 6.232184,5.17901 6.23218,-5.17901 8.60619,12.73152 H 88.06336 Z" />
+    <g
+       clip-path="url(#clipEmfPath1)"
+       id="g10"
+       transform="matrix(0.38016011,0,0,0.38016011,83.417602,75.987922)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-size:53.25px;line-height:125%;font-family:'AvenirNext LT Pro Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="0"
+         y="0"
+         id="text10"
+         transform="translate(29.25532,104.39193)"><tspan
+           x="0"
+           y="0"
+           id="tspan10"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-size:53.25px;font-family:'AvenirNext LT Pro Medium';fill:#000000"
+             id="tspan8">@</tspan><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-size:53.25px;font-family:'AvenirNext LT Pro Medium';fill:#000000"
+             id="tspan9"> </tspan></tspan></text>
+    </g>
+  </g>
+</svg>
