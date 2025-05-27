@@ -16,9 +16,14 @@ b) However, these logos are originally made with [three propriatory fonts](http:
 So, I think it's nice — and more in line with the open science spirit — to have these logos made with free fonts. 
 Therefore, I have played around a little and made two versions with a very similar vibe by using the following free fonts: [EB Garamond](http://www.georgduffner.at/ebgaramond/) Medium, Palatino Linotype, [Coconat](https://www.collletttivo.it/typefaces/coconat) Demi (for the main logotype word), and [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) Medium (Small Caps — for the tagline). These fonts are open source fonts, except for [Palatino Linotype](https://learn.microsoft.com/en-us/typography/font-list/palatino-linotype) (for the "χ" letter) which is [included](https://learn.microsoft.com/en-us/typography/font-list/palatino-linotype) with every MS Windows OS and with MS Office.
 
+Free-fonts-versions of BioRxiv logo: style1 and style2.
 ![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![bioRxiv logo v2](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style2.svg) 
 
-A free-fonts-version logo of openRxiv: <br><br>
+A free-fonts-version logo of medRxiv and openRxiv (style1): <br><br>
+![medRxiv, medRχiv logo v1](/preprint_logos/svg_files/medRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![medRxiv, medχiv logo v1, single-word](/preprint_logos/svg_files/medRxiv_logo_name-only_free-fonts-version_style1.svg)
+
+<br><br>
+
 ![openRxiv, OpenRχiv logo v1](/preprint_logos/svg_files/openRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![openRxiv, OpenRχiv logo v1, single-word](/preprint_logos/svg_files/openRxiv_logo_name-only_free-fonts-version_style1.svg)
 
 More updates to follow:
