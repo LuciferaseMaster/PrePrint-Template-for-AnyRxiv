@@ -20,7 +20,8 @@ Free-fonts-versions of BioRxiv logo: style1 and style2.
 
 ![bioRxiv logo v1](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![bioRxiv logo v2](/preprint_logos/svg_files/bioRxiv_logo_full_free-fonts-version_style2.svg) 
 
-A free-fonts-version logo of medRxiv and openRxiv (style1): <br><br>
+A free-fonts-version logo of medRxiv and for openRxiv (style1):
+
 ![medRxiv, medRχiv logo v1](/preprint_logos/svg_files/medRxiv_logo_full_free-fonts-version_style1.svg) &nbsp;&nbsp;&nbsp; ![medRxiv, medχiv logo v1, single-word](/preprint_logos/svg_files/medRxiv_logo_name-only_free-fonts-version_style1.svg)
 
 <br>
