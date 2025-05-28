@@ -39,3 +39,6 @@ More updates to follow:
 
 More updates to follow.
 
+Some other logo versions to mention:
+
+![preprint logo (#PrePrint, Veritas non verba))](/preprint_logos/svg_files/preprint_logo_full_v3.svg) 
