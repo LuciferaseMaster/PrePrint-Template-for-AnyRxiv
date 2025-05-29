@@ -33,7 +33,7 @@ A free-fonts-version of the logos of medRxiv and openRxiv (style1):
 
 More updates to follow:
 
-3) I have attached the two most popular preprint templates (from [here](https://github.com/finkelsteinlab/BioRxiv-Template) and [here](https://github.com/chrelli/bioRxiv-word-template)) with the logos inserted and other slight modifications, to provide a better reading experience.
+3) I have attached the two most popular preprint templates [MS Word format] (from [here](https://github.com/finkelsteinlab/BioRxiv-Template) and [here](https://github.com/chrelli/bioRxiv-word-template)) with the logos inserted and other slight modifications, to provide a better reading experience: [template1](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Finkelstein_ver-mv1.docx) and [template2](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Ebbesen_ver-mv1.docx).
 
 4) I think it is also nice to include the actual text of the logo as a small text box — invisible, behind the logo itself. This way this text is still present in the final PDF file despite the logo being just a vector image.
 
