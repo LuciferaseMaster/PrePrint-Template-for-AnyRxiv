@@ -7,7 +7,7 @@ If you are making a #preprint, why not do it [with style](https://www.youtube.co
 Below, is an examples (four combined pages) how these logos can be placed in the manuscript file. The nndividual pages can be seen [here](/preprint_logos/page_examples/).
 ![four pages combined (four pages combined)](/preprint_logos/page_examples/pages-4-combined.png)
 
-1) The first logo signifies a preprint status of the manuscript document. I've designed it to be visually nice and to reflect different types of preprinted research, and different layers and meanining of this concept.
+1) The first logo signifies a preprint status of the manuscript document. I've designed it to be visually nice and to reflect different types of preprinted research. It's also supposed to reflect different layers and meaninings of this concept.
 See for yourself!
 
 ![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v1.svg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![preprint logo (#PrePrint; Veritas. Virtus. Libertas.))](/preprint_logos/svg_files/preprint_logo_full_v2.svg) 
