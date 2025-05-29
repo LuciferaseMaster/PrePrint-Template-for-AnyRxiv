@@ -16,7 +16,7 @@ See for yourself!
 No tagline: &nbsp;&nbsp;
 ![preprint logo single-word](/preprint_logos/svg_files/preprint_logo_single-word_v1.svg)
 
-3) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (now a part of [openRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, which are raster (pixel) images. This is in contrast to, for example, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard), [Arxiv](https://arxiv.org/), and [EarthArchive](https://eartharxiv.github.io/resources.html), which have vector (svg) logos available.
+3) The [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/) repositiories (now a part of [openRxiv](https://www.cshl.edu/the-natural-evolution-of-biorxiv-and-medrxiv/)) only have the png-format logos available, which are raster (pixel) images. This is in contrast to, for example, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard), [arXiv](https://arxiv.org/), and [EarthArXiv](https://eartharxiv.github.io/resources.html), which have vector (svg) logos available.
 
 a) Therefore, I have generated the same logos in the vector format. They can be stretched or compressed without any loss of quality and detail.
 
