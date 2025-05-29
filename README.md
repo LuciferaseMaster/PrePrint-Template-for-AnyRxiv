@@ -7,6 +7,7 @@ These templates are inspired by the [BioRxiv preprint template](https://github.c
 My versions add more manuscript elements and tweaks (compared to the individual templates above), aim for a more universal print layout (for both A4 and Letter paper size) and include more custom font suggestions for different manuscript elements, to provide a better reading experience.
 
 I also include [several vector and font-based logo designs](/preprint_logos): for the general use in #PrePrint manuscripts, for those aimed for BioRxiv, etc. They give a better visual impact and reflect the idea of the OpenScience movement.
+The two abovementioned *MS Word* templates with the logos inserted and other slight modifications, to provide a better reading experience, can be seen here: [template1](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Finkelstein_ver-mv1.docx) and [template2](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Ebbesen_ver-mv1.docx).
 
 The templates are made for both, Microsoft Office and Libre Office.
 
