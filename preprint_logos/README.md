@@ -56,4 +56,5 @@ More updates to follow.
 
 ![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4a-lora-it.svg) &nbsp;&nbsp;&nbsp; 
 ![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4b-lora-it-col.svg) &nbsp;&nbsp;&nbsp; 
-![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4c.svg)
+![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4c.svg) &nbsp;&nbsp;&nbsp; 
+![preprint logo (#PrePrint;  Veritas. Virtus. Libertas.))](/preprint_logos/svg_files/preprint_logo_full_v4d.svg)
