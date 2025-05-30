@@ -1,6 +1,6 @@
 # Vector logos for #preprints
 
-If you are making a #preprint, why not do it [with style](https://www.youtube.com/watch?v=tEFlrd4buE4&t=414s)!
+### If you are making a #preprint, why not do it [with style](https://www.youtube.com/watch?v=tEFlrd4buE4&t=414s)!
 
 [Nice vector logotypes](/preprint_logos/svg_files) in the SVG format, which can be inserted into your manuscript file to mark it as a preprint: a general one, and the ones aimed for bioRχiv (bioRxiv) or medRχiv (medRxiv). See some of them presented and compared [on a Letter-size page in PDF](/preprint_logos/preprint_logos_presented.pdf) (or this document saved as [PNG](/preprint_logos/preprint_logos_presented.png) and [JPG](/preprint_logos/preprint_logos_presented.jpg)).
 
@@ -11,7 +11,9 @@ The individual pages can be seen [here](/preprint_logos/page_examples/).
 1) The first logo signifies a preprint status of the manuscript document. I've designed it to be visually nice and to reflect different types of preprinted research. It's also supposed to reflect different layers and meaninings of the concept of preprints and open science.
 See for yourself!
 
-![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v1.svg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![preprint logo (#PrePrint; Veritas. Virtus. Libertas.))](/preprint_logos/svg_files/preprint_logo_full_v2.svg) 
+![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v1.svg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![preprint logo (#PrePrint; Veritas. Virtus. Libertas.))](/preprint_logos/svg_files/preprint_logo_full_v2.svg) &nbsp;&nbsp;
+![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4a-lora-it.svg)
 
 No tagline: &nbsp;&nbsp;
 ![preprint logo single-word](/preprint_logos/svg_files/preprint_logo_single-word_v1.svg)
@@ -48,6 +50,10 @@ More updates to follow:
 
 More updates to follow.
 
-Some other logo versions to mention:
+## Some other logo versions to mention:
 
 ![preprint logo (#PrePrint, Veritas non verba))](/preprint_logos/svg_files/preprint_logo_full_v3.svg) 
+
+![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4a-lora-it.svg) &nbsp;&nbsp;&nbsp; 
+![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4b-lora-it-col.svg) &nbsp;&nbsp;&nbsp; 
+![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4c.svg)
