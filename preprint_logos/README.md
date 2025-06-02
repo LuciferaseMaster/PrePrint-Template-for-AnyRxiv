@@ -13,7 +13,7 @@ See for yourself!
 
 ![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v1.svg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![preprint logo (#PrePrint; Veritas. Virtus. Libertas.))](/preprint_logos/svg_files/preprint_logo_full_v2.svg) &nbsp;&nbsp;
-![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4a-lora-it.svg)
+![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4c.svg)
 
 No tagline: &nbsp;&nbsp;
 ![preprint logo single-word](/preprint_logos/svg_files/preprint_logo_single-word_v1.svg)
