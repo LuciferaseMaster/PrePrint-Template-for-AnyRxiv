@@ -4,7 +4,7 @@
 
 [Nice vector logotypes](/preprint_logos/svg_files) in the SVG format, which can be inserted into your manuscript file to mark it as a preprint: a general one, and the ones aimed for bioRχiv (bioRxiv) or medRχiv (medRxiv). See some of them presented and compared [on a Letter-size page in PDF](/preprint_logos/preprint_logos_presented.pdf) (or this document saved as [PNG](/preprint_logos/preprint_logos_presented.png) and [JPG](/preprint_logos/preprint_logos_presented.jpg)).
 
-Below, are examples (four combined pages) how these logos can be placed in the standard manuscript file (A4 or Letter size).<br> 
+Below, are examples (four combined pages) of how these logos can be placed in the standard manuscript file (A4 or Letter size).<br> 
 The individual pages can be seen [here](/preprint_logos/page_examples/).
 ![four pages combined (four pages combined)](/preprint_logos/page_examples/pages-4-combined.png)
 
