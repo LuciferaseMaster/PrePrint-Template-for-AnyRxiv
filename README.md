@@ -1,6 +1,8 @@
 # PrePrint Template for AnyRxiv
 MS Word and Libre Office templates for a nicer and more readable #PrePrint manuscript.
 
+Don't forget that you can (allowed by the publisher) usually post preprints and postprints (version of an ["Accepted manuscript"](/preprint_logos/svg_files/postprint_v1b.svg) even after you have published your paper in a journal. This way you can make it more accessible if it's paywalled, correct typos or make some improvements (e.g. colored pictures instead of greyscale ones in the original paper).
+
 These templates aim to create reader-friendly PrePrints.
 
 These templates are inspired by the [BioRxiv preprint template](https://github.com/finkelsteinlab/BioRxiv-Template) made by the [Ilya Finkelstein lab](https://github.com/finkelsteinlab) and by [another BioRxiv preprint template](https://github.com/chrelli/bioRxiv-word-template) made by [Christian L. Ebbesen](https://github.com/chrelli).
@@ -9,7 +11,9 @@ My versions add more manuscript elements and tweaks (compared to the individual 
 I also include [several vector and font-based logo designs](/preprint_logos): for the general use in #PrePrint manuscripts, for those aimed for BioRxiv, etc. They give a better visual impact and reflect the idea of the OpenScience movement.
 The two abovementioned *MS Word* templates with the logos inserted and other slight modifications, to provide a better reading experience, can be seen here: [template1](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Finkelstein_ver-mv1.docx) and [template2](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Ebbesen_ver-mv1.docx).
 
-The templates are made for both, Microsoft Office and Libre Office.
+See also my postprint as an example of a postprint ([odt and pdf](https://osf.io/8sk5u/files/osfstorage)). This one is kept in a single-column style with Figures placed after the main text.
+
+The templates will be made for both, Microsoft Office (.docx) and Libre Office (.odt).
 
 While MS office is more widely used, Libre Office is actually [better in most of the commonly used features](https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office) (while very similar in its interface, and it's free). 
 The most notorious things with MS Office — which Microsoft is not willing to solve for many many years (!) — that are direcly relevant to the PDF file production:
