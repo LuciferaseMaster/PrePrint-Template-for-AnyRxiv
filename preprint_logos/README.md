@@ -57,7 +57,8 @@ More updates to follow.
 
 ## Some other logo versions to mention:
 
-![preprint logo (#PrePrint, Veritas non verba))](/preprint_logos/svg_files/preprint_logo_full_v3.svg) 
+![preprint logo (#PrePrint, Veritas non verba))](/preprint_logos/svg_files/preprint_logo_full_v3.svg)  &nbsp;&nbsp;
+![preprint logo (Veritas. Virtus. Libertas.; #PrePrint; Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v1-2.svg) 
 
 ![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4a-lora-it.svg) &nbsp;&nbsp;&nbsp; 
 ![preprint logo (#PrePrint, Nullius in verba))](/preprint_logos/svg_files/preprint_logo_full_v4b-lora-it-col.svg) &nbsp;&nbsp;&nbsp; 
