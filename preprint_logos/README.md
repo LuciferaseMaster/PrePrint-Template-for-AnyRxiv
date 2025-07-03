@@ -49,7 +49,11 @@ A free-fonts-version of the logos of medRxiv and openRxiv (style1):
 More updates to follow:
 
 3) I have attached the two most popular preprint templates [MS Word format] (from [here](https://github.com/finkelsteinlab/BioRxiv-Template) and [here](https://github.com/chrelli/bioRxiv-word-template)) with the logos inserted and other slight modifications, to provide a better reading experience: [template1](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Finkelstein_ver-mv1.docx) and [template2](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Ebbesen_ver-mv1.docx). <br>
-See also my postprint as an example of a postprint ([odt and pdf](https://osf.io/8sk5u/files/osfstorage)). This one is kept in a single-column style with Figures placed after the main text.
+
+See also my postprints as examples of a postprint:
+
+* BSAP 2013: ([odt and pdf](https://osf.io/8sk5u/files/osfstorage)). This one is kept in a single-column style with Figures placed after the main text.
+* LmiTS 2011: ([odt and pdf](https://osf.io/9wcv5/files/osfstorage)). This one is made in a two-column format and is overall better than the actual publication in the PEDS journal.
 
 4) I think it is also nice to include the actual text of the logo as a small text box — invisible, behind the logo itself. This way this text is still present in the final PDF file despite the logo being just a vector image.
 
