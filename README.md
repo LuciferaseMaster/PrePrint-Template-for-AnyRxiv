@@ -11,9 +11,12 @@ My versions add more manuscript elements and tweaks (compared to the individual 
 I also include [several vector and font-based logo designs](/preprint_logos): for the general use in #PrePrint manuscripts, for those aimed for BioRxiv, etc. They give a better visual impact and reflect the idea of the OpenScience movement.
 The two abovementioned *MS Word* templates with the logos inserted and other slight modifications, to provide a better reading experience, can be seen here: [template1](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Finkelstein_ver-mv1.docx) and [template2](/preprint_logos/preprint_BioRxiv_Template_MS-Word_Ebbesen_ver-mv1.docx).
 
-See also my postprint as an example of a postprint ([odt and pdf](https://osf.io/8sk5u/files/osfstorage)). This one is kept in a single-column style with Figures placed after the main text.
-
 The templates will be made for both, Microsoft Office (.docx) and Libre Office (.odt).
+
+Meanwhile, see my two postprints in the LibreOffice format as examples and, if desired, templates for formatting preprints:
+
+* LmiTS 2011: ([odt and pdf](https://osf.io/9wcv5/files/osfstorage)). This one is made in a two-column format and is overall better than the actual publication in the PEDS journal.
+* BSAP 2013: ([odt and pdf](https://osf.io/8sk5u/files/osfstorage)). This one is kept in a single-column style with Figures placed after the main text.
 
 While MS office is more widely used, Libre Office is actually [better in most of the commonly used features](https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office) (while very similar in its interface, and it's free). 
 The most notorious things with MS Office — which Microsoft is not willing to solve for many many years (!) — that are direcly relevant to the PDF file production:
