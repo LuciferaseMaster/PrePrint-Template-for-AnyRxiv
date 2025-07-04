@@ -1,7 +1,7 @@
 # PrePrint Template for AnyRxiv
 MS Word and Libre Office templates for a nicer and more readable #PrePrint manuscript.
 
-Don't forget that you can (allowed by the publisher) usually post preprints and postprints (version of an ["Accepted manuscript"](/preprint_logos/svg_files/postprint_v1b.svg)) even after you have published your paper in a journal. This way you can make it more accessible if it's paywalled, correct typos or make some improvements (e.g. colored pictures instead of greyscale ones in the original paper).
+Don't forget that you can (allowed by the publisher) usually post preprints and postprints (version of an ["Accepted manuscript"](/preprint_logos/svg_files/postprint_v1b.svg)) even after you have published your paper in a journal. This way you can make it more accessible if it's paywalled, correct typos or make some improvements: for example, [colored pictures instead of greyscale ones in the original paper](https://osf.io/9wcv5/files/osfstorage)).
 
 These templates aim to create reader-friendly PrePrints.
 
